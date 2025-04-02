@@ -4,6 +4,16 @@ Repository for the Winter 2025 Computational Social Science Workshop
 Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
+## 4/03
+[Benjamin Golub](https://bengolub.net/) is an American economist who is a professor of economics and computer science at Northwestern University. His research focuses on the economics of networks. He was named the winner of the 2020 biannual Calvó-Armengol International Prize, which recognizes a “top researcher in [e]conomics or social sciences younger than 40 years old for contributions to the theory and comprehension of the mechanisms of social interaction.”
+
+**Incentive design with spillovers**. How should contracts be designed to motivate a group of agents to work efficiently toward a risky outcome, such as a scientific advance? This is a fundamental question about optimal contracting for teamwork, and the framework to formalize it is nearly 50 years old. Nevertheless, economics has made little progress on this problem for general team production technologies. We solve the problem by combining insights from contract theory and the theory of network games. The talk will also discuss using recent advances in large-matrix statistics to address realistic cases in which the network of collaborations and spillovers is not known to the designer, and which offer a variety of open avenues for both theoretical and empirical research. The talk will be accessible to an interdisciplinary social science audience.
+
+**Reading List**
+
+- [INCENTIVE DESIGN WITH SPILLOVERS](https://drive.google.com/file/d/1NZAQaTjzCWWTaSCTusKxaH2bBf2XcT4t/view?usp=drive_link)
+- [ROBUST MARKET INTERVENTIONS](https://drive.google.com/file/d/1YFW74EJamivn1kuLEc_mohzllEHEtMTR/view?usp=sharing)
+
 ## 3/06
 [Patrick Park](https://sc.cs.cmu.edu/people/faculty/park-patrick.html) is a computational social scientist whose research delves into the structure and evolution of large-scale social networks. His work examines how people form and sustain social ties and how broader social, economic, and environmental contexts influence this process. His research spans several thematic intersections, including social contagion, economic sociology, social psychology, the diffusion of innovation, and social movements, all supported by empirical data capturing population-scale online social interactions. Patrick actively seeks interdisciplinary collaboration with researchers from diverse fields, including computer science, applied mathematics, social sciences, and management science. His research has been published in journals such as Science, Social Networks, PLoS One, Lecture Notes in Computer Science, and Big Data and Society.
 
